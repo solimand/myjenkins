@@ -26,6 +26,7 @@ durable-task:555.v6802fe0f0b_82
 echarts-api:5.5.0-1
 eddsa-api:0.3.0-4.v84c6f0f4969e
 email-ext:1814.v404722f34263
+file-parameters:339.v4b_cc83e11455
 font-awesome-api:6.5.2-1
 git-client:4.7.0
 git-parameter:0.9.19
@@ -35,6 +36,7 @@ github-branch-source:1789.v5b_0c0cea_18c3
 github:1.39.0
 gradle:2.12
 gson-api:2.11.0-41.v019fcf6125dc
+htmlpublisher:1.14
 instance-identity:185.v303dc7c645f9
 ionicons-api:74.v93d5eb_813d5f
 jackson2-api:2.17.0-379.v02de8ec9f64c
@@ -73,6 +75,7 @@ pipeline-rest-api:2.34
 pipeline-stage-step:312.v8cd10304c27a_
 pipeline-stage-tags-metadata:2.2198.v41dd8ef6dd56
 pipeline-stage-view:2.34
+pipeline-utility-steps:2.17.0
 plain-credentials:182.v468b_97b_9dcb_8
 plugin-util-api:4.1.0
 resource-disposer:0.23

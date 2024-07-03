@@ -1,4 +1,6 @@
-FROM jenkins/jenkins:2.452.2-lts
+# FROM jenkins/jenkins:2.452.2-lts
+FROM jenkins/jenkins:2.463
+# FROM jenkins:2.46.3
 
 # skip initial wizard
 ENV JAVA_OPTS -Djenkins.install.runSetupWizard=false
